@@ -1,2 +1,1 @@
-0x03-shell_variables_expansions
-
+0x02-shell_redirections
